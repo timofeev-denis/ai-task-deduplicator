@@ -180,6 +180,10 @@ Email Notification
 * OpenAI Embeddings
 * OpenAI Chat Model
 
+Free alternative:
+- Embedding: bge-m3
+- Classification: qwen3:4b
+
 ## Integrations
 
 * GitLab REST API
